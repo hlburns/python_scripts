@@ -1,0 +1,27 @@
+Python Set UP
+
+Python used = anaconda
+
+Scripts:
+MOC.py - makes pics of MOC files
+RMOC.py - makes pics of RMOC in density layers
+RMOCT.py - makes pics of RMOC in temperature layers
+MOC_parallel.py - for 10 + files please screen ipcluster (currently on mnemosyne) and run in parallel
+RMOCT_parallel.py - as above.
+
+Note Books:
+For one instance please refer to the following notebooks:
+Density Check (for checking density)
+Spin up testing (in parallel and in progress)
+Diagnostics (in progress)
+MOC
+MOCparallel
+RMOC(temp)
+Remapping (inprogress)
+Remapping from layers (in progress)
+
+To come:
+Heat budget 1 (use model output for heat flux terms wolfe 2008)
+Heat budget 2 ( Break down of heat fluxes as in master's year)
+StreamwiseMOC (Integrate along streamlines)
+StreamwiseHeat ( Int along streamlines heat budget 2)

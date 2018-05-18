@@ -1,0 +1,21 @@
+[0:execute]: 
+[1;31m---------------------------------------------------------------------------[0m[1;31mNameError[0m                                 Traceback (most recent call last)[1;32m<ipython-input-397-044086f629a9>[0m in [0;36m<module>[1;34m()[0m
+[1;32m----> 1[1;33m [0mA_local[0m[1;33m=[0m[0mg[0m[1;33m.[0m[0minterp_to_g1[0m[1;33m([0m[0mc[0m[1;33m.[0m[0mwgrid_to_cgrid[0m[1;33m([0m[0mWpTp[0m[1;33m)[0m [1;33m-[0m [0mc[0m[1;33m.[0m[0mvgrid_to_cgrid[0m[1;33m([0m[0mVpTp[0m[1;33m)[0m[1;33m*[0m[0mSp[0m[1;33m,[0m[0mT[0m[1;33m)[0m[1;33m[0m[0m
+[0m[1;31mNameError[0m: name 'Sp' is not defined
+
+[1:execute]: 
+[1;31m---------------------------------------------------------------------------[0m[1;31mNameError[0m                                 Traceback (most recent call last)[1;32m<ipython-input-397-044086f629a9>[0m in [0;36m<module>[1;34m()[0m
+[1;32m----> 1[1;33m [0mA_local[0m[1;33m=[0m[0mg[0m[1;33m.[0m[0minterp_to_g1[0m[1;33m([0m[0mc[0m[1;33m.[0m[0mwgrid_to_cgrid[0m[1;33m([0m[0mWpTp[0m[1;33m)[0m [1;33m-[0m [0mc[0m[1;33m.[0m[0mvgrid_to_cgrid[0m[1;33m([0m[0mVpTp[0m[1;33m)[0m[1;33m*[0m[0mSp[0m[1;33m,[0m[0mT[0m[1;33m)[0m[1;33m[0m[0m
+[0m[1;31mNameError[0m: name 'Sp' is not defined
+
+[2:execute]: 
+[1;31m---------------------------------------------------------------------------[0m[1;31mNameError[0m                                 Traceback (most recent call last)[1;32m<ipython-input-397-044086f629a9>[0m in [0;36m<module>[1;34m()[0m
+[1;32m----> 1[1;33m [0mA_local[0m[1;33m=[0m[0mg[0m[1;33m.[0m[0minterp_to_g1[0m[1;33m([0m[0mc[0m[1;33m.[0m[0mwgrid_to_cgrid[0m[1;33m([0m[0mWpTp[0m[1;33m)[0m [1;33m-[0m [0mc[0m[1;33m.[0m[0mvgrid_to_cgrid[0m[1;33m([0m[0mVpTp[0m[1;33m)[0m[1;33m*[0m[0mSp[0m[1;33m,[0m[0mT[0m[1;33m)[0m[1;33m[0m[0m
+[0m[1;31mNameError[0m: name 'Sp' is not defined
+
+[3:execute]: 
+[1;31m---------------------------------------------------------------------------[0m[1;31mNameError[0m                                 Traceback (most recent call last)[1;32m<ipython-input-397-044086f629a9>[0m in [0;36m<module>[1;34m()[0m
+[1;32m----> 1[1;33m [0mA_local[0m[1;33m=[0m[0mg[0m[1;33m.[0m[0minterp_to_g1[0m[1;33m([0m[0mc[0m[1;33m.[0m[0mwgrid_to_cgrid[0m[1;33m([0m[0mWpTp[0m[1;33m)[0m [1;33m-[0m [0mc[0m[1;33m.[0m[0mvgrid_to_cgrid[0m[1;33m([0m[0mVpTp[0m[1;33m)[0m[1;33m*[0m[0mSp[0m[1;33m,[0m[0mT[0m[1;33m)[0m[1;33m[0m[0m
+[0m[1;31mNameError[0m: name 'Sp' is not defined
+
+... 2 more exceptions ...

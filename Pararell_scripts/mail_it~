@@ -1,0 +1,5 @@
+#!/bin/bash
+
+if ! [ -d /proc/2021340 ] ;then
+mail -s "program bit the dust" hb1g13@soton.ac.uk
+fi

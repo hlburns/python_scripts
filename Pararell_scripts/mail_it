@@ -1,0 +1,4 @@
+#!/bin/bash
+while [ -d /proc/2021340 ]; do sleep 1; done && mail -s 'end of python job' hb1g13@soton.ac.uk &
+
+
